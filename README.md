@@ -1,6 +1,6 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This project helps users to add and remove todo lists items. They can opt in to add a due date.
 
 ## Functionality
 
@@ -8,7 +8,7 @@ Give a more detailed explanation of the project and its functionality.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This project have utilized Modules and various Javascript Methods. The code is expandable and reusable as the application evolves. 
 
 ## Deployment
 
